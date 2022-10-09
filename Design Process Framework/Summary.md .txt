@@ -1,0 +1,21 @@
+design process framework adalah ide utama untuk mendukung masalah yang akan dipecahkan seperti garis besar dalam sebuah proyek'
+
+User-centered design process
+
+Setiap fase dari user-centeres design process berfokus pada pengguna dan kebutuhan mereka. Ini adalah proses berulang, yang berarti bahwa desainer kembali ke fase tertentu, lagi dan lagi, untuk menyempurnakan desain mereka dan menciptakan produk terbaik untuk pengguna yang dituju.
+
+Understand how the user experiences the product or similar products 
+
+atau pahami bagaimana pengalaman pengguna terhadap produk atau produk serupa. Anda ingin tahu bagaimana pengguna akan terlibat dengan desain anda, serta lingkungan atau konteks di mana mereka akan mengalami produk. Memahami hal ini membutuhkan banyak penelitian, seperti mengamati pengguna dalam tindakan dan melakukan wawancara, yang akan kita jelajahi lebih lanjut nanti.
+    
+Specify the user’s needs 
+
+atau tentukan kebutuhan pengguna. Berdasarkan penelitian anda, cari tahu masalah pengguna mana yang paling penting untuk dipecahkan.
+    
+Design solutions to those user problems
+
+ atau merancang solusi untuk masalah pengguna tersebut. Munculkan banyak ide untuk desain yang dapat mengatasi masalah pengguna yang telah anda identifikasi. Kemudian, mulailah untuk benar-benar merancang ide-ide itu!
+   
+Evaluate the solutions you designed against the user’s needs
+ 
+atau evaluasi solusi yang anda rancang terhadap kebutuhan pengguna. Tanyakan pada diri sendiri, “Apakah desain yang saya buat menyelesaikan masalah pengguna?” Untuk menjawab pertanyaan ini, Anda harus menguji produk yang anda rancang dengan beberapa orang dan mengumpulkan feedback.
